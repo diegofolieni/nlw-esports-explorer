@@ -8,7 +8,7 @@ Projeto construído do evento Next Level Week promovido pela RocketSeat.
 
 [:link: Clique aqui para acessar](https://diegofolieni.github.io/nlw-esports-explorer)
 
-## :tools: Tecnologias
+## :computer: Tecnologias
 
 - HTML
 - CSS
